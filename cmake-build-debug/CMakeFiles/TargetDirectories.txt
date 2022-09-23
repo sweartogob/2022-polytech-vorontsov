@@ -1,0 +1,3 @@
+C:/Users/storm/Documents/polygit/2022-polytech-vorontsov/cmake-build-debug/CMakeFiles/2022_polytech_vorontsov.dir
+C:/Users/storm/Documents/polygit/2022-polytech-vorontsov/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/storm/Documents/polygit/2022-polytech-vorontsov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
